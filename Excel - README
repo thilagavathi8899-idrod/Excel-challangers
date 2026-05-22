@@ -44,5 +44,38 @@ Key Outcomes
 - Enhanced reliability for decision-making
  Conclusion
 
+
+Healthcare Analytics Dashboard
+
+##  Project Overview
+This dashboard provides insights into patient records, treatment trends, and healthcare performance metrics.
+
+##  Objectives
+- Monitor healthcare performance
+- Analyze patient demographics
+- Track treatment outcomes
+- Support healthcare decision-making
+
+##  Tools Used
+- Power BI
+- DAX
+- Excel
+
+##  Dashboard Features
+- Patient Overview
+- Demographic Analysis
+- Treatment Statistics
+- Performance Metrics
+- Interactive Filters
+
+##  Key Insights
+- Patient distribution analyzed
+- Treatment effectiveness monitored
+- Healthcare trends identified
+- Performance metrics evaluated
+
+##  Outcome
+Created a dashboard for healthcare data monitoring and performance analysis.
+
 Data exploration helped uncover patterns, missing values, and data quality issues, while data transformation ensured the dataset was accurate, consistent, and ready for analysis. This process provides a strong foundation for generating meaningful business insights.
 
