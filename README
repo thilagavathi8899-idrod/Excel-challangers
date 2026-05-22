@@ -1,0 +1,18 @@
+1. Data Exploration
+Examined dataset shape and structure.
+Checked data types and summary statistics.
+Identified missing values and duplicate records.
+Analyzed feature distributions.
+Explored relationships between variables.
+2. Data Transformation
+Removed duplicate records.
+Handled missing values.
+Converted data types where required.
+Renamed columns for consistency.
+Created derived features for better analysis.
+Prepared a clean dataset for visualization and reporting.
+Tools Used
+- Microsoft Excel
+- Data Cleaning
+- Data Transformation
+- Data Validation
